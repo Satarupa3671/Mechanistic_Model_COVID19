@@ -1,6 +1,8 @@
 # Mechanistic_Model_COVID19
 
 ----------------Description
+
+
 We propose a multi-compartment dynamic model 
 as a realistic emulator for the COVID-19 pandemic by taking into account the major factors that influence its progression. Specifically, our model incorporates various epidemiological factors, and different policy intervention options such as lockdown, and testing and vaccination rates. Furthermore, the model involves a network of nodes representing different population centers or strata, with possible migrations across nodes. The focus is on optimal policy decisions to 
 minimize the impact of the pandemic, by making a meaningful assessment of the costs due to deaths and lockdowns, while also taking into account the capacity of the healthcare system. We compare several scenarios with different levels of intervention through extensive simulation studies. The results suggest that a high rate of testing coupled with rapid vaccination, can be very effective in bringing the pandemic under control quickly and economically.
