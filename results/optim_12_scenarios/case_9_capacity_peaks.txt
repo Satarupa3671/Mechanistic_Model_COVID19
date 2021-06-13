@@ -1,0 +1,17 @@
+[1] "optimal kappa =  c(0.323052400364566, 0.282873814928227) optimal threshold parameter =  2.79285265680082e-05 optimal vaccination rate =  NULL"
+[1] "final mortality rate = 0.00099"
+[1] "final recovery rate =  0.8583"
+
+[1] "H_peaks_node1 =  138.255612293298"      
+[2] "H_peaks_node7 =  235.702550599886"      
+[3] "D_peaks_node1 =  497.400749568417"      
+[4] "D_peaks_node7 =  298.482937410888"      
+[5] "D_daily_peaks_node1 =  4.14766836879895"
+[6] "D_daily_peaks_node7 =  2.35702550599886"
+
+ [1] FALSE FALSE FALSE FALSE FALSE FALSE FALSE FALSE
+ [9] FALSE FALSE
+ [1] 0.0003073030 0.0003073030 0.0003073030
+ [4] 0.0003153547 0.0003153547 0.0006734359
+ [7] 0.0006734359 0.0006734359 0.0006247490
+[10] 0.0006247490
